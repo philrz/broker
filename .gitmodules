@@ -9,4 +9,5 @@
 	url = https://github.com/zeek/zeek-3rdparty
 [submodule "caf"]
 	path = caf
-	url = https://github.com/zeek/actor-framework.git
+	url = https://github.com/philrz/actor-framework.git
+	branch = inc-limits-fix
